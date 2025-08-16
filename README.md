@@ -18,6 +18,20 @@ Install through **Satisfactory Mod Manager** and unlock in the Hub **Tier 1**.
 > ✔️ **Glass Foundation Corner**  
 > ✔️ **Glass Foundation Edge**  
 > ✔️ **Glass Foundation Edges**  
+> ⏳ **Glass Foundation End Piece**  
+> ⏳ **Glass Foundation Ramp**  
+> ⏳ **Glass Foundation Ramp Edge Left**  
+> ⏳ **Glass Foundation Ramp Edge Right**  
+> ⏳ **Glass Foundation Ramp Edges**  
+> ⏳ **Glass Foundation Ramp End Piece Upward**  
+> ⏳ **Glass Foundation Ramp End Piece Downward**  
+> ❌ **Glass Foundation Stairs**  
+> ❌ **Glass Foundation Stairs Edge**  
+> ❌ **Glass Foundation Stairs Edge Left**  
+> ❌ **Glass Foundation Stairs Edge Right**  
+> ❌ **Glass Foundation Stairs Edges**  
+> ❌ **Glass Foundation Stairs End Piece Upward**  
+> ❌ **Glass Foundation Stairs End Piece Downward**  
 ### 🚧 Walls
 > ❌ _Nothing specific planned at the moment_
 ### 🏠 Roofs
