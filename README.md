@@ -17,6 +17,7 @@ Coming soon — will be available via the Satisfactory Mod Manager once released
 > ✔️ **Glass Foundation** — without frame  
 > ✔️ **Glass Foundation Corner**  
 > ✔️ **Glass Foundation Edge**  
+> ✔️ **Glass Foundation Edges**  
 ### 🚧 Walls
 > ❌ _Nothing specific planned at the moment_
 ### 🏠 Roofs
@@ -27,7 +28,8 @@ Coming soon — will be available via the Satisfactory Mod Manager once released
 ---
 
 ## ⚠️ Known Issues
-- Seams between grass foundations don't match up correctly with _Glass Foundation Corner_ and _Glass Foundation Edge_
+- Seams between grass foundations don't match up correctly with _Glass Foundation Corner_, _Glass Foundation Edge_ and _Glass Foundation Edges_
+- Icons need to be replaces, but is a low priority _for now_
 
 ---
 
