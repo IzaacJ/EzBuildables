@@ -18,7 +18,7 @@ Install through **Satisfactory Mod Manager** and unlock in the Hub **Tier 1**.
 > ✔️ **Glass Foundation Corner**  
 > ✔️ **Glass Foundation Edge**  
 > ✔️ **Glass Foundation Edges**  
-> ⏳ **Glass Foundation End Piece**  
+> ✔️ **Glass Foundation End Piece**  
 > ⏳ **Glass Foundation Ramp**  
 > ⏳ **Glass Foundation Ramp Edge Left**  
 > ⏳ **Glass Foundation Ramp Edge Right**  
