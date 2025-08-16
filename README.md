@@ -1,4 +1,4 @@
-![EzBuildables](./Resources/ModBanner.png)
+![EzBuildables](https://github.com/IzaacJ/EzBuildables/blob/main/Resources/ModBanner.png?raw=true)
 # EzBuildables<sup>/'i:zi 'bɪldəblz/</sup>
 
 Satisfactory mod focused on expanding the buildable options with clean and aesthetic structures.  
