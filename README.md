@@ -7,7 +7,7 @@ Currently in early development.
 ---
 
 ## 🚀 Installation
-Coming soon — will be available via the Satisfactory Mod Manager once released.
+Install through **Satisfactory Mod Manager** and unlock in the Hub **Tier 1**.
 
 ---
 
