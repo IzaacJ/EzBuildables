@@ -36,6 +36,7 @@ Coming soon — will be available via the Satisfactory Mod Manager once released
 ## 🛠️ Tools Used
 - FModel — https://fmodel.app/
 - Blender — https://blender.org/
+- EditorIconMaker — https://github.com/Nogg-aholic/EditorIconMaker
 - Satisfactory Modding fork of Unreal Engine CSS — https://github.com/satisfactorymodding/UnrealEngine  
   _(Private repository requiring invitation. Follow the [Ficsit.app Getting Started Guide](https://docs.ficsit.app/satisfactory-modding/latest/Development/BeginnersGuide/index.html), specifically [here](https://docs.ficsit.app/satisfactory-modding/latest/Development/BeginnersGuide/dependencies.html#CustomEngine))_
 
