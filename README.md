@@ -19,7 +19,7 @@ Install through **Satisfactory Mod Manager** and unlock in the Hub **Tier 1**.
 > ✔️ **Glass Foundation Edge**  
 > ✔️ **Glass Foundation Edges**  
 > ✔️ **Glass Foundation End Piece**  
-> ⏳ **Glass Foundation Ramp**  
+> ⏳ **Glass Foundation Ramp** — with frame — 2M and 4M added  
 > ⏳ **Glass Foundation Ramp Edge Left**  
 > ⏳ **Glass Foundation Ramp Edge Right**  
 > ⏳ **Glass Foundation Ramp Edges**  
@@ -42,7 +42,7 @@ Install through **Satisfactory Mod Manager** and unlock in the Hub **Tier 1**.
 ---
 
 ## ⚠️ Known Issues
-- Seams between grass foundations don't match up correctly with _Glass Foundation Corner_, _Glass Foundation Edge_ and _Glass Foundation Edges_
+- Need to clean up the meshes and buildables blueprints. Will happen gradually as my Blender/UE knowledge increases.
 - Icons need to be replaces, but is a low priority _for now_
 
 ---
